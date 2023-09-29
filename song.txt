@@ -6,6 +6,3 @@ Shield by shield
 
 Sword and spear
 wall of shields
-
-These two lines are added
-to prove the revert 
